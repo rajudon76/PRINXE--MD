@@ -7,23 +7,23 @@
   "stack": "container",
   "env": {
       "OWNERS": {
-      "description": "Put your Number as Owner",
+      "description": "Raju",
       "required": true,
-      "value": "923092668xxx;❣️Prince"
+      "value": "923071782626;❣️Raju"
       },
      "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
        },
      "HKEY": {
       "description": "Put your Heroku API key Here",
-      "required": true,
+      "required": false,
       "value": ""
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
-      "required": true,
+      "required": false,
       "value": ""
        },
     "PREFIX": {
@@ -54,7 +54,7 @@
     "STATUS_REPLY": {
       "description": "Make it true or false to turn on/off Auto status message to your contacts",
       "required": false,
-      "value": "true"
+      "value": "false"
       },
     "VIEWONCE": {
       "description": "Make true if wanna get view once message",
@@ -104,7 +104,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~NhIR3RSL#KDgekTiwDC3RB_YzB44YL2mgnw-zsQzMidRjQYPJ2SY"
     }
     
    
